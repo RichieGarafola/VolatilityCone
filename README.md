@@ -8,11 +8,15 @@ Volatility cones can help you do this.
 
 ## Step 1: Import the required libraries
 
-%matplotlib inline
-math
-yfinance
-numpy
-matplotlib
+  %matplotlib inline
+
+  math
+
+  yfinance
+
+  numpy
+
+  matplotlib
 
 ---
 
